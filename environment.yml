@@ -1,0 +1,5 @@
+name: testing
+dependencies:
+  - python
+  - black
+  - pytest
